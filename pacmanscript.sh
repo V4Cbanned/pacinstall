@@ -1,0 +1,1 @@
+pacman -S curl fzf gcc keepassxc libxft libxinerama make man-db man-pages mpv neofetch pcmanfm pkgconf python redshift rxvt-unicode sudo sxiv texinfo unzip vim qutebrowser wget xorg-server xorg-xinit xorg-xrandr youtube-dl zip htop ntfs-3g wpa_supplicant iw intel-ucode
